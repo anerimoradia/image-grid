@@ -16,7 +16,7 @@ https://github.com/anerimoradia/image-grid.git
 
 ## Project Structure
 
-project-folder/
+image-grid /
 │
 
 ├── index.html 
@@ -24,7 +24,6 @@ project-folder/
 ├── styles.css
 
 └── images/
-
     ├── foggy-beach.jpg
     
     ├── living-room.jpg
