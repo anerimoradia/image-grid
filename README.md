@@ -16,16 +16,25 @@ https://github.com/anerimoradia/image-grid.git
 
 ## Project Structure
 
-project-folder/
+image-grid /
 │
-├── index.html
+
+├── index.html 
+
 ├── styles.css
+
 └── images/
+
     ├── foggy-beach.jpg
+    
     ├── living-room.jpg
+    
     ├── food-table.jpg
+    
     ├── red-door.jpg
+    
     ├── apartment-street.jpg
+    
     └── beach-hill.jpg
 
 ## Project Details
