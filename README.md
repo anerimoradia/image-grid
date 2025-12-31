@@ -24,6 +24,7 @@ image-grid /
 ├── styles.css
 
 └── images/
+
     ├── foggy-beach.jpg
     
     ├── living-room.jpg
